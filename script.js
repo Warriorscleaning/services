@@ -1,1 +1,1 @@
-console.log("Website loaded!");
+console.log("Golden Cleaning Services website loaded.");
